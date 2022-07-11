@@ -1,3 +1,12 @@
 Then, we want a function that adds our command to the different possible paths with
 ft_strjoin. This function should also check each path to see if it is valid and
 accessible. The following system call from the <unistd.h> library will help with testing:
+Then, we want a function that adds our command to the different possible paths with
+ft_strjoin. This function should also check each path to see if it is valid and
+accessible. The following system call from the <unistd.h> library will help with testing:
+Then, we want a function that adds our command to the different possible paths with
+ft_strjoin. This function should also check each path to see if it is valid and
+accessible. The following system call from the <unistd.h> library will help with testing:
+Then, we want a function that adds our command to the different possible paths with
+ft_strjoin. This function should also check each path to see if it is valid and
+accessible. The following system call from the <unistd.h> library will help with testing:
